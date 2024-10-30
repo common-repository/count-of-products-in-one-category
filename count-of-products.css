@@ -1,0 +1,9 @@
+.so-cp-count-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.so-cp-count-category-name {
+    margin-right: 5px;
+    font-weight: bold;
+}
